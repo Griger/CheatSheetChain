@@ -88,3 +88,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#LOL API key
+app/src/main/res/values/key.xml
